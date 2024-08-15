@@ -1,0 +1,4 @@
+name: SwordHub
+version: '${project.version}'
+main: me.anthony.swordhub.SwordHub
+api-version: '1.21'
